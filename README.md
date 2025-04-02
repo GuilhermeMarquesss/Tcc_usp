@@ -50,10 +50,4 @@ Os resultados indicam que, embora modelos complexos como LSTM e ensembles tenham
   - `tensorflow` (para LSTM)
   - `pandas_datareader`
 
-Instale os requisitos com:
-
-```bash
-pip install -r requirements.txt
-
-
-MBA em Data Science e Analytics - 2025
+### MBA em Data Science e Analytics - 2025
